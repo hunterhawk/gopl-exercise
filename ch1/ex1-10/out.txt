@@ -1,0 +1,3 @@
+0.54s     6813  https://godoc.org
+0.57s     4154  http://gopl.io
+0.57s elapsed
